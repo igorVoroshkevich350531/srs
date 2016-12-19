@@ -70,17 +70,17 @@
 ## Диаграмма классов
 ![Classes diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/classes.jpg?raw=true)
 
-## Диаграмма последовательности (Переключение между страницами сайта)
+## Диаграмма последовательности
 ![Sequence diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/posledovat.jpg?raw=true)
 
-## Диаграмма состояний (Запись клиента на занятие)
+## Диаграмма состояний
 ![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/states.jpg?raw=true)
 
 ## Диаграмма использования
-![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/useCase.jpg?raw=true)
+![UseCase diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/useCase.jpg?raw=true)
 
 ## Диаграмма деятельности
-![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/activity.jpg?raw=true)
+![Activity diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/activity.jpg?raw=true)
 
 ## Диаграмма компонентов
-![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/omponents.jpg?raw=true)
+![Components diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/omponents.jpg?raw=true)
