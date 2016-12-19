@@ -61,8 +61,26 @@
 
 ## 3.2 Нефункциональные требования
 ### 3.2.1 Атрибуты качества
-* Загрузка приложения не должна занимать больше пяти секунд;
-* Графический дизайн должен быть быстрым и отзывчивым;
-* Запросы к серверу должны занимать не больше одной секунды;
-* Приложения должно поддерживаться всеми устройствами Android версии 5.0 и выше;
+* Загрузка приложения не должна занимать больше пяти секунд
+* Графический дизайн должен быть быстрым и отзывчивым
+* Запросы к серверу должны занимать не больше одной секунды
+* Приложения должно поддерживаться всеми устройствами Android версии 5.0 и выше
 
+# <span name="diagrams">Диаграммы</span>
+## Диаграмма классов
+![Classes diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/classes.jpg?raw=true)
+
+## Диаграмма последовательности (Переключение между страницами сайта)
+![Sequence diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/posledovat.jpg?raw=true)
+
+## Диаграмма состояний (Запись клиента на занятие)
+![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/states.jpg?raw=true)
+
+## Диаграмма использования
+![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/useCase.jpg?raw=true)
+
+## Диаграмма деятельности
+![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/activity.jpg?raw=true)
+
+## Диаграмма компонентов
+![States diagram](https://github.com/igorVoroshkevich350531/srs/blob/master/diagrams/omponents.jpg?raw=true)
